@@ -1,11 +1,10 @@
 {
   "basic_info": {
-    "name": "Davina Griss",
+    "name": "Mohamed Asik Sapteen",
     "titles": [
+      "Java Developer",
       "Front-end Developer",
-      "Senior Data Engineer",
-      "Dev Team lead",
-      "Mobile App Developer"
+      "Full Stack Developer"
     ],
     "socials": [
       {
@@ -25,7 +24,7 @@
   "about_me": {
     "title": "About me",
     "greeting": "Hi",
-    "content": " 👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+    "content": " 👋 I'm Mohamed Asik Sapteen. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
     "image": "myProfile.jpg",
     "tech_stacks": ["devicon:angular", "devicon:react", "devicon:vuejs"]
   },

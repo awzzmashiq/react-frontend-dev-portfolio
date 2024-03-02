@@ -1,6 +1,6 @@
 {
   "basic_info": {
-    "name": "Davina Griss",
+    "name": "Mohamed Asik Sapteen",
     "titles": [
       "Programista front-endu",
       "Starszy inżynier danych",
@@ -25,7 +25,7 @@
   "about_me": {
     "title": "O mnie",
     "greeting": "Cześć",
-    "content": "👋 Jestem Davina Griss. Fikcyjna osoba dla celów poglądowych :) Pracuję z najnowszymi frameworkami front-endowymi, takimi jak Angular, React i Vue. To, co teraz widzisz, to szablon portfolio od Dorota1997. Jeśli podoba Ci się ten szablon portfolio, pamiętaj o ⭐ repozytorium, aby było bardziej rozpoznawalne dla innych użytkowników. Dziękuję 💜",
+    "content": "👋 Mohamed Asik Sapteen. Fikcyjna osoba dla celów poglądowych :) Pracuję z najnowszymi frameworkami front-endowymi, takimi jak Angular, React i Vue. To, co teraz widzisz, to szablon portfolio od Dorota1997. Jeśli podoba Ci się ten szablon portfolio, pamiętaj o ⭐ repozytorium, aby było bardziej rozpoznawalne dla innych użytkowników. Dziękuję 💜",
     "image": "myProfile.jpg",
     "tech_stacks": ["devicon:angular", "devicon:react", "devicon:vuejs"]
   },
