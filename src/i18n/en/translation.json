@@ -9,7 +9,7 @@
     "socials": [
       {
         "icon": "mdi:linkedin",
-        "url": "www.linkedin.com/in/mohamed-asik-sapteen-013947203"
+        "url": "https://www.linkedin.com/in/mohamed-asik-sapteen-013947203"
       },
       {
         "icon": "mdi:github",
@@ -17,85 +17,105 @@
       },
       {
         "icon": "mdi:twitter",
-        "url": "https://twitter.com/expeliermers"
+        "url": "https://twitter.com/awzzm_ashik"
       }
     ]
   },
   "about_me": {
     "title": "About me",
     "greeting": "Hi",
-    "content": " 👋 I'm Mohamed Asik Sapteen. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
-    "image": "myProfile.jpg",
-    "tech_stacks": ["devicon:angular", "devicon:react", "devicon:vuejs"]
+    "content": " 👋 I'm Mohamed Asik Sapteen. I'm working with tech stacks like Spring Boot, React and Docker over 4 years , specializing in SDLC, Agile, and Waterfall methodologies. I hold a Masters of Science in Information Systems from New Jersey Institute of Technology, and a Bachelors in Computer Science and Engineering from Government College of Technology, Tamil Nadu. My technical skills include proficiency in Core Java, Java EE technologies, and frameworks such as Spring MVC, Spring Boot, and Hibernate. I am well-versed in cloud platforms like AWS and Azure, containerization with Docker, and orchestration using Kubernetes. I am passionate about software development and always strive to stay updated with the latest technologies and best practices.",
+    "image": "ashik1.jpg",
+    "tech_stacks": ["devicon:java", "devicon:react", "devicon:docker"]
   },
   "projects": {
     "title": "projects",
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "AEPS",
+        "startDate": "2019-2021",
+        "description": "Responsible for designing and implementing various features and functionalities of the AEPS system using Java and the Spring Boot framework. This may involve creating web services, APIs, and backend logic. Ensuring the security of the AEPS system, especially in handling sensitive financial and biometric data. This includes implementing authentication and authorization mechanisms, encryption, and other security best practices.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/AEPS/aeps.png",
+          "images/portfolio/AEPS/aeps1.jpg"
         ],
         "url": "https://github.com",
         "technologies": [
           {
-            "class": "mdi:angular",
-            "name": "Angular"
+            "class": "mdi-language-java",
+            "name": "Java"
           },
-          {
-            "class": "teenyicons:typescript-outline",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon:csharp",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
           {
             "class": "mdi:react",
             "name": "React"
           },
           {
-            "class": "teenyicons:javascript-outline",
-            "name": "JavaScript"
+            "class": "fontisto:mysql",
+            "name": "MySQL"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "MEF API's",
+        "startDate": "2021-2022",
+        "description": "I have crafted several RESTful APIs focusing on functionalities such as validating addresses, detailing product offerings, and providing quotations, all in alignment with MEF (Metro Ethernet Forum) standards for seamless interoperability. These microservices are engineered using a robust technology stack that includes Spring Boot for the backend, ensuring quick, efficient development and easy deployment of complex applications. For the frontend, React JS is utilized, offering a dynamic and responsive user interface that enhances user experience. To ensure these services run smoothly in a cloud-native environment, Docker and Kubernetes are employed. Docker packages the application and its dependencies into a container, making it easy to deploy and run consistently across any environment. Kubernetes orchestrates these containers, managing their lifecycle, scaling, and fault tolerance efficiently. Security and access management are handled through Keycloak, an open-source identity and access management solution, which provides out-of-the-box support for managing user identities, federated logins, and securing REST APIs. Lastly, the Kong API Gateway acts as the critical entry point for all the requests to these microservices, offering an extra layer of security, traffic control, and monitoring, ensuring a scalable, secure, and efficient API ecosystem.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/MEF/MEF.png",
+          "images/portfolio/MEF/MEF1.png"
         ],
         "url": "https://github.com",
         "technologies": [
           {
-            "class": "mdi:angular",
-            "name": "Angular"
+            "class": "mdi:language-java",
+            "name": "Java"
           },
           {
-            "class": "teenyicons:typescript-outline",
-            "name": "TypeScript"
+            "class": "mdi:leaf",
+            "name": "Spring Boot"
           },
           {
-            "class": "devicon:csharp",
-            "name": "C#"
+            "class": "mdi:react",
+            "name": "React JS"
+          },
+          {
+            "class": "mdi:docker",
+            "name": "Docker"
+          },
+          {
+            "class": "mdi:kubernetes",
+            "name": "Kubernetes"
+          }
+        ]
+      },
+      {
+        "title": "Healthcare App",
+        "startDate": "2023-present",
+        "description": "I've also created REST APIs like patient management, appointment scheduling, medical record access for a healthcare application, employing the same technological framework with an additional use of AWS S3 buckets. This suite of APIs is developed to cater to various healthcare application needs, utilizing a robust stack that includes Spring Boot for the backend—facilitating rapid development and deployment of complex applications—and React JS for the frontend, ensuring a dynamic and engaging user interface. For containerization and orchestration, Docker and Kubernetes are integral parts of the infrastructure, streamlining the deployment process and managing the application at scale across any environment. Security and access control are meticulously managed through Keycloak, offering comprehensive solutions for user authentication and authorization across the application. To enhance the application's storage capabilities, especially for handling large amounts of unstructured data such as medical images and patient records, AWS S3 buckets are integrated into the solution. S3 provides scalable, secure, and durable object storage, making it an ideal choice for storing and retrieving any amount of data from anywhere on the web. This addition not only expands the app's storage capacity but also leverages the reliability and global infrastructure of AWS to ensure data availability and integrity.",
+        "images": [
+          "images/portfolio/health/health1.jpg",
+          "images/portfolio/health/health.png"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "mdi:language-java",
+            "name": "Java"
+          },
+          {
+            "class": "mdi:leaf",
+            "name": "Spring Boot"
+          },
+          {
+            "class": "mdi:react",
+            "name": "React JS"
+          },
+          {
+            "class": "mdi:docker",
+            "name": "Docker"
+          },
+          {
+            "class": "mdi:kubernetes",
+            "name": "Kubernetes"
           }
         ]
       }
@@ -104,6 +124,21 @@
   "skills": {
     "title": "Skills",
     "icons": [
+      {
+        "name": "Java",
+        "class": "mdi:language-java",
+        "level": "80"
+      },
+      {
+        "name": "Spring Boot",
+        "class": "simple-icons:springboot",
+        "level": "75"
+      },
+      {
+        "name": "React JS",
+        "class": "mdi:react",
+        "level": "85"
+      },            
       {
         "name": "HTML 5",
         "class": "ri:html5-fill",
@@ -130,24 +165,24 @@
         "level": "70"
       },
       {
-        "name": "Sass",
-        "class": "la:sass",
-        "level": "75"
-      },
-      {
         "name": "Bootstrap",
         "class": "ri:bootstrap-fill",
         "level": "85"
       },
       {
-        "name": "C#",
-        "class": "devicon-plain:csharp",
-        "level": "65"
-      },
-      {
         "name": "MySql",
         "class": "fontisto:mysql",
         "level": "60"
+      },
+      {
+        "name": "MongoDB",
+        "class": "simple-icons:mongodb",
+        "level": "80"
+      },
+      {
+        "name": "Docker",
+        "class": "simple-icons:docker",
+        "level": "80"
       }
     ]
   },
@@ -155,31 +190,38 @@
     "title": "Experience",
     "experiences": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
-        "mainTech": "Angular 8/9/10",
-        "mainTechIcon": "mdi:angular",
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
-        ]
+        "company": "ByteCraft System",
+        "title": "Java Developer",
+        "years": "JAN 2019 - SEP 2021",
+        "mainTech": "Spring Boot",
+        "mainTechIcon": "mdi-language-java",
+        "technologies": ["Java", "Spring Boot", "REST API", "JavaScript", "MySQL"]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Infoway Solutions",
+        "title": "Java Developer",
+        "years": "OCT 2021 - AUG 2022",
+        "mainTech": "Spring Boot",
+        "mainTechIcon": "mdi:leaf",
+        "technologies": ["Spring Boot", "React JS", "Docker", "Kubernetes", "Mongo DB","Keycloak","Kong API Gateway", "MEF API's","Nginx"]
+      },
+      {
+        "company": "Unum",
+        "title": "Java Developer",
+        "years": "JUL 2023 - present",
         "mainTech": "React",
         "mainTechIcon": "mdi:react",
-        "technologies": ["RxJS", "Django", "PHP", "JavaScript", "DHTMLX Gantt"]
+        "technologies": [
+          "REST API",
+          "Spring Boot",
+          "React",
+          "AWS S3",
+          "AWS IAM",
+          "Docker",
+          "Kubernetes"
+        ]
       }
+
     ]
   },
   "copyright": "Copyright"
