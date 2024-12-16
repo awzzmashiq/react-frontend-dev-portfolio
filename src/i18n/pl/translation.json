@@ -1,6 +1,6 @@
 {
   "basic_info": {
-    "name": "Mohamed Asik Sapteen",
+    "name": "Mohamed",
     "titles": [
       "Programista Java",
       "Programista Front-end",
@@ -9,7 +9,7 @@
     "socials": [
       {
         "icon": "mdi:linkedin",
-        "url": "https://www.linkedin.com/in/mohamed-asik-sapteen-013947203"
+        "url": "https://www.linkedin.com/in/mohammed-ashik-39481a314/"
       },
       {
         "icon": "mdi:github",
@@ -24,7 +24,7 @@
   "about_me": {
     "title": "O mnie",
     "greeting": "Cześć",
-    "content": "👋 Jestem Mohamed Asik Sapteen. Pracuję z takimi technologiami jak Spring Boot, React i Docker ponad 4 lata, specjalizując się w metodologiach SDLC, Agile i Waterfall. Mam magistra informatyki z New Jersey Institute of Technology i licencjat z inżynierii komputerowej z Government College of Technology, Tamil Nadu. Moje umiejętności techniczne obejmują Core Java, Java EE, Spring MVC, Spring Boot, Hibernate, AWS, Azure, Docker, Kubernetes. Jestem pasjonatem rozwoju oprogramowania, zawsze aktualizując się z najnowszymi technologiami.",
+    "content": "👋 Jestem Mohamed. Pracuję z takimi technologiami jak Spring Boot, React i Docker ponad 4 lata, specjalizując się w metodologiach SDLC, Agile i Waterfall. Mam magistra informatyki z New Jersey Institute of Technology i licencjat z inżynierii komputerowej z Government College of Technology, Tamil Nadu. Moje umiejętności techniczne obejmują Core Java, Java EE, Spring MVC, Spring Boot, Hibernate, AWS, Azure, Docker, Kubernetes. Jestem pasjonatem rozwoju oprogramowania, zawsze aktualizując się z najnowszymi technologiami.",
     "image": "ashik1.jpg",
     "tech_stacks": ["devicon:java", "devicon:react", "devicon:docker"]
   },
@@ -190,15 +190,15 @@
     "title": "Doświadczenie",
     "experiences": [
       {
-        "company": "ByteCraft System",
+        "company": "TCS",
         "title": "Programista Java",
-        "years": "STY 2019 - WRZ 2021",
+        "years": "AUG 2019 - WRZ 2021",
         "mainTech": "Spring Boot",
         "mainTechIcon": "mdi-language-java",
         "technologies": ["Java", "Spring Boot", "REST API", "JavaScript", "MySQL"]
       },
       {
-        "company": "Infoway Solutions",
+        "company": "TCL",
         "title": "Programista Java",
         "years": "PAŹ 2021 - SIE 2022",
         "mainTech": "Spring Boot",

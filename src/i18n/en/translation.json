@@ -1,6 +1,6 @@
 {
   "basic_info": {
-    "name": "Mohamed Asik Sapteen",
+    "name": "Mohamed",
     "titles": [
       "Java Developer",
       "Front-end Developer",
@@ -9,7 +9,7 @@
     "socials": [
       {
         "icon": "mdi:linkedin",
-        "url": "https://www.linkedin.com/in/mohamed-asik-sapteen-013947203"
+        "url": "https://www.linkedin.com/in/mohammed-ashik-39481a314/"
       },
       {
         "icon": "mdi:github",
@@ -24,7 +24,7 @@
   "about_me": {
     "title": "About me",
     "greeting": "Hi",
-    "content": " 👋 I'm Mohamed Asik Sapteen. I'm working with tech stacks like Spring Boot, React and Docker over 4 years , specializing in SDLC, Agile, and Waterfall methodologies. I hold a Masters of Science in Information Systems from New Jersey Institute of Technology, and a Bachelors in Computer Science and Engineering from Government College of Technology, Tamil Nadu. My technical skills include proficiency in Core Java, Java EE technologies, and frameworks such as Spring MVC, Spring Boot, and Hibernate. I am well-versed in cloud platforms like AWS and Azure, containerization with Docker, and orchestration using Kubernetes. I am passionate about software development and always strive to stay updated with the latest technologies and best practices.",
+    "content": " 👋 I'm Mohamed. I'm working with tech stacks like Spring Boot, React and Docker over 4 years , specializing in SDLC, Agile, and Waterfall methodologies. I hold a Masters of Science in Information Systems from New Jersey Institute of Technology, and a Bachelors in Computer Science and Engineering from Government College of Technology, Tamil Nadu. My technical skills include proficiency in Core Java, Java EE technologies, and frameworks such as Spring MVC, Spring Boot, and Hibernate. I am well-versed in cloud platforms like AWS and Azure, containerization with Docker, and orchestration using Kubernetes. I am passionate about software development and always strive to stay updated with the latest technologies and best practices.",
     "image": "ashik1.jpg",
     "tech_stacks": ["devicon:java", "devicon:react", "devicon:docker"]
   },
@@ -190,15 +190,15 @@
     "title": "Experience",
     "experiences": [
       {
-        "company": "ByteCraft System",
+        "company": "TCS",
         "title": "Java Developer",
-        "years": "JAN 2019 - SEP 2021",
+        "years": "AUG 2019 - SEP 2021",
         "mainTech": "Spring Boot",
         "mainTechIcon": "mdi-language-java",
         "technologies": ["Java", "Spring Boot", "REST API", "JavaScript", "MySQL"]
       },
       {
-        "company": "Infoway Solutions",
+        "company": "TCL",
         "title": "Java Developer",
         "years": "OCT 2021 - AUG 2022",
         "mainTech": "Spring Boot",
