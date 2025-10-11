@@ -26,7 +26,6 @@ const AboutMe = () => {
       y: 0,
       transition: {
         duration: 0.6,
-        ease: "easeOut",
       },
     },
   };
@@ -39,7 +38,7 @@ const AboutMe = () => {
       transition: {
         delay: custom * 0.1,
         duration: 0.5,
-        type: "spring",
+        type: "spring" as const,
         stiffness: 200,
       },
     }),
