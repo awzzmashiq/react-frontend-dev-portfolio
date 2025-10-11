@@ -2,7 +2,8 @@
   "basic_info": {
     "name": "Mohamed",
     "titles": [
-      "Java Developer",
+      "Gen AI Developer",
+      "Business Analyst/Product Owner",
       "Front-end Developer",
       "Full Stack Developer"
     ],
@@ -24,9 +25,9 @@
   "about_me": {
     "title": "About me",
     "greeting": "Hi",
-    "content": " 👋 I'm Mohamed. I'm working with tech stacks like Spring Boot, React and Docker over 4 years , specializing in SDLC, Agile, and Waterfall methodologies. I hold a Masters of Science in Information Systems from New Jersey Institute of Technology, and a Bachelors in Computer Science and Engineering from Government College of Technology, Tamil Nadu. My technical skills include proficiency in Core Java, Java EE technologies, and frameworks such as Spring MVC, Spring Boot, and Hibernate. I am well-versed in cloud platforms like AWS and Azure, containerization with Docker, and orchestration using Kubernetes. I am passionate about software development and always strive to stay updated with the latest technologies and best practices.",
+    "content": " 👋 I'm Mohamed, a dynamic and results-driven Software Developer and Technical Data Analyst with a strong foundation in data visualization, statistical analysis, and business intelligence. I excel at transforming raw data into clear, actionable insights that drive strategic decisions across finance, healthcare, banking, and telecom sectors. My expertise includes developing full-stack applications using React.js, Spring Boot, Docker, Kubernetes, and AWS, while building scalable cloud-native and agentic AI solutions using LangChain, Theta Edge Cloud, and Gradio. I'm proficient in SQL, Python, Excel, and BI tools such as Power BI and Tableau, with a knack for creating compelling data dashboards. I specialize in designing Agentic AI workflows, building robust APIs, implementing efficient CI/CD pipelines, and enhancing system performance for complex enterprise projects. I hold a Masters of Science in Information Systems from New Jersey Institute of Technology, and a Bachelors in Computer Science and Engineering from Government College of Technology, Tamil Nadu. For detailed information about my experience and projects, please refer to my LinkedIn profile.",
     "image": "ashik1.jpg",
-    "tech_stacks": ["devicon:java", "devicon:react", "devicon:docker"]
+    "tech_stacks": ["devicon:java", "devicon:react", "devicon:docker", "devicon:python", "mdi:robot"]
   },
   "projects": {
     "title": "projects",
@@ -183,6 +184,31 @@
         "name": "Docker",
         "class": "simple-icons:docker",
         "level": "80"
+      },
+      {
+        "name": "Python",
+        "class": "mdi:language-python",
+        "level": "85"
+      },
+      {
+        "name": "AWS",
+        "class": "simple-icons:amazonaws",
+        "level": "75"
+      },
+      {
+        "name": "LLM",
+        "class": "mdi:robot",
+        "level": "70"
+      },
+      {
+        "name": "Tableau",
+        "class": "simple-icons:tableau",
+        "level": "80"
+      },
+      {
+        "name": "Power BI",
+        "class": "simple-icons:powerbi",
+        "level": "75"
       }
     ]
   },
@@ -206,9 +232,9 @@
         "technologies": ["Spring Boot", "React JS", "Docker", "Kubernetes", "Mongo DB","Keycloak","Kong API Gateway", "MEF API's","Nginx"]
       },
       {
-        "company": "Unum",
-        "title": "Java Developer",
-        "years": "JUL 2023 - present",
+        "company": "Voltas Consulting",
+        "title": "Software Developer | Product Owner",
+        "years": "JAN 2023 - present",
         "mainTech": "React",
         "mainTechIcon": "mdi:react",
         "technologies": [

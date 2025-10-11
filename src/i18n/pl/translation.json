@@ -2,7 +2,8 @@
   "basic_info": {
     "name": "Mohamed",
     "titles": [
-      "Programista Java",
+      "Programista Gen AI",
+      "Business Analyst/Product Owner",
       "Programista Front-end",
       "Programista Full Stack"
     ],
@@ -24,9 +25,9 @@
   "about_me": {
     "title": "O mnie",
     "greeting": "Cześć",
-    "content": "👋 Jestem Mohamed. Pracuję z takimi technologiami jak Spring Boot, React i Docker ponad 4 lata, specjalizując się w metodologiach SDLC, Agile i Waterfall. Mam magistra informatyki z New Jersey Institute of Technology i licencjat z inżynierii komputerowej z Government College of Technology, Tamil Nadu. Moje umiejętności techniczne obejmują Core Java, Java EE, Spring MVC, Spring Boot, Hibernate, AWS, Azure, Docker, Kubernetes. Jestem pasjonatem rozwoju oprogramowania, zawsze aktualizując się z najnowszymi technologiami.",
+    "content": "👋 Jestem Mohamed, dynamicznym i zorientowanym na wyniki programistą i analitykiem technicznym z silnymi podstawami w wizualizacji danych, analizie statystycznej i business intelligence. Doskonale przekształcam surowe dane w jasne, działające insights, które napędzają strategiczne decyzje w sektorach finansowych, opieki zdrowotnej, bankowości i telekomunikacji. Moja wiedza obejmuje tworzenie aplikacji full-stack używając React.js, Spring Boot, Docker, Kubernetes i AWS, a także budowanie skalowalnych rozwiązań AI opartych na chmurze używając LangChain, Theta Edge Cloud i Gradio. Jestem biegły w SQL, Python, Excel i narzędziach BI takich jak Power BI i Tableau, z talentem do tworzenia przekonujących dashboardów danych. Specjalizuję się w projektowaniu przepływów pracy Agentic AI, budowaniu solidnych API, implementacji efektywnych pipeline'ów CI/CD i poprawie wydajności systemów dla złożonych projektów enterprise. Mam magistra informatyki z New Jersey Institute of Technology i licencjat z inżynierii komputerowej z Government College of Technology, Tamil Nadu. Aby uzyskać szczegółowe informacje o moim doświadczeniu i projektach, zapraszam do mojego profilu LinkedIn.",
     "image": "ashik1.jpg",
-    "tech_stacks": ["devicon:java", "devicon:react", "devicon:docker"]
+    "tech_stacks": ["devicon:java", "devicon:react", "devicon:docker", "devicon:python", "mdi:robot"]
   },
   "projects": {
     "title": "Projekty",
@@ -183,6 +184,31 @@
         "name": "Docker",
         "class": "simple-icons:docker",
         "level": "80"
+      },
+      {
+        "name": "Python",
+        "class": "mdi:language-python",
+        "level": "85"
+      },
+      {
+        "name": "AWS",
+        "class": "simple-icons:amazonaws",
+        "level": "75"
+      },
+      {
+        "name": "LLM",
+        "class": "mdi:robot",
+        "level": "70"
+      },
+      {
+        "name": "Tableau",
+        "class": "simple-icons:tableau",
+        "level": "80"
+      },
+      {
+        "name": "Power BI",
+        "class": "simple-icons:powerbi",
+        "level": "75"
       }
     ]
   },
@@ -206,9 +232,9 @@
         "technologies": ["Spring Boot", "React JS", "Docker", "Kubernetes", "Mongo DB","Keycloak","Kong API Gateway", "MEF API's","Nginx"]
       },
       {
-        "company": "Unum",
-        "title": "Programista Java",
-        "years": "LIP 2023 - obecnie",
+        "company": "Voltas Consulting",
+        "title": "Software Developer | Product Owner",
+        "years": "JAN 2023 - obecnie",
         "mainTech": "React",
         "mainTechIcon": "mdi:react",
         "technologies": [
