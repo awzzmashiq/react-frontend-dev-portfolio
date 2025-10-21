@@ -217,14 +217,14 @@
     "experiences": [
       {
         "company": "TCS",
-        "title": "Programista/Analityk Techniczny",
+        "title": "Inżynier Oprogramowania",
         "years": "AUG 2019 - WRZ 2021",
         "mainTech": "Spring Boot",
         "mainTechIcon": "mdi-language-java",
         "technologies": ["Java", "Spring Boot", "REST API", "JavaScript", "MySQL"]
       },
       {
-        "company": "TCL",
+        "company": "Tata Communications (TCL)",
         "title": "Starszy Programista",
         "years": "PAŹ 2021 - SIE 2022",
         "mainTech": "Spring Boot",
@@ -233,7 +233,7 @@
       },
       {
         "company": "Voltas Consulting",
-        "title": "Inżynier Oprogramowania",
+        "title": "Programista | Analityk Techniczny",
         "years": "JAN 2023 - obecnie",
         "mainTech": "React",
         "mainTechIcon": "mdi:react",

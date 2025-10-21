@@ -217,14 +217,14 @@
     "experiences": [
       {
         "company": "TCS",
-        "title": "Software Developer/Technical Analyst",
+        "title": "Software Engineer",
         "years": "AUG 2019 - SEP 2021",
         "mainTech": "Spring Boot",
         "mainTechIcon": "mdi-language-java",
         "technologies": ["Java", "Spring Boot", "REST API", "JavaScript", "MySQL"]
       },
       {
-        "company": "TCL",
+        "company": "Tata Communications (TCL)",
         "title": "Senior Software Developer",
         "years": "OCT 2021 - AUG 2022",
         "mainTech": "Spring Boot",
@@ -233,7 +233,7 @@
       },
       {
         "company": "Voltas Consulting",
-        "title": "Software Engineer",
+        "title": "Software Developer | Technical Analyst",
         "years": "JAN 2023 - present",
         "mainTech": "React",
         "mainTechIcon": "mdi:react",
