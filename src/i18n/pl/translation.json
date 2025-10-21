@@ -217,7 +217,7 @@
     "experiences": [
       {
         "company": "TCS",
-        "title": "Programista Java",
+        "title": "Programista/Analityk Techniczny",
         "years": "AUG 2019 - WRZ 2021",
         "mainTech": "Spring Boot",
         "mainTechIcon": "mdi-language-java",
@@ -225,7 +225,7 @@
       },
       {
         "company": "TCL",
-        "title": "Programista Java",
+        "title": "Starszy Programista",
         "years": "PAŹ 2021 - SIE 2022",
         "mainTech": "Spring Boot",
         "mainTechIcon": "mdi:leaf",
@@ -233,7 +233,7 @@
       },
       {
         "company": "Voltas Consulting",
-        "title": "Software Developer | Product Owner",
+        "title": "Inżynier Oprogramowania",
         "years": "JAN 2023 - obecnie",
         "mainTech": "React",
         "mainTechIcon": "mdi:react",
